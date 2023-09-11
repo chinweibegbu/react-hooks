@@ -12,7 +12,7 @@ React Hooks @ Andela-Pluralsight-Meta React Learning Program 2023
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Week 2 "Using React 17 Hooks" ([course link](https://app.pluralsight.com/library/courses/using-react-hooks))
 
-## Projet Description
+## Project Description
 Summary: Two simple image-related functionalities using in-built React hooks
 
 This project was bootstrapped with [Next.JS](https://nextjs.org/).
